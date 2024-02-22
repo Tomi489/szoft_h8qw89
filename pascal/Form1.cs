@@ -21,6 +21,7 @@ namespace pascal
                     button.Height = m;
                     button.Width = m;
                     button.Text = (Faktorialis(sor) / (Faktorialis(oszlop) * Faktorialis(sor - oszlop))).ToString();
+
                 }
             }
         }
