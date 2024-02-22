@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szorzotabla", "szorzotabla\szorzotabla.csproj", "{AAEE084F-31DA-4298-AB79-A2830E667581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{4030DD7A-7F44-418C-9502-8277A7F6A0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pascal", "pascal\pascal.csproj", "{6E522518-EC82-4521-B402-28263476EE38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEE084F-31DA-4298-AB79-A2830E667581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEE084F-31DA-4298-AB79-A2830E667581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEE084F-31DA-4298-AB79-A2830E667581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEE084F-31DA-4298-AB79-A2830E667581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4030DD7A-7F44-418C-9502-8277A7F6A0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4030DD7A-7F44-418C-9502-8277A7F6A0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4030DD7A-7F44-418C-9502-8277A7F6A0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4030DD7A-7F44-418C-9502-8277A7F6A0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E522518-EC82-4521-B402-28263476EE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E522518-EC82-4521-B402-28263476EE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E522518-EC82-4521-B402-28263476EE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E522518-EC82-4521-B402-28263476EE38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3D68F0-8B43-415B-9F7C-A899CCD74B9F}
+	EndGlobalSection
+EndGlobal
